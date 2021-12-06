@@ -2,7 +2,7 @@
 // import { initializeApp ,getAuth} from 'firebase-admin/app';
 const { initializeApp ,getAuth } = require('firebase-admin/app');
 var admin = require("firebase-admin");
-var serviceAccount = require("./configs/adminSecurity.json");
+var serviceAccount = require("./adminSecurity.json");
 
 
 
