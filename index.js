@@ -2,7 +2,7 @@
 // import { initializeApp ,getAuth} from 'firebase-admin/app';
 const { initializeApp ,getAuth } = require('firebase-admin/app');
 var admin = require("firebase-admin");
-var serviceAccount = require("./volounter-network-firebase-adminsdk-4abo6-d7b8e6d8a0.json");
+var serviceAccount = require("./configs/volounter-network-firebase-adminsdk-4abo6-d7b8e6d8a0.json");
 
 
 
